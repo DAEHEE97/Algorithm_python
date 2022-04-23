@@ -1,4 +1,4 @@
-# Chained Matrix Multiplication
+# [Chained Matrix Multiplication](https://github.com/DAEHEE97/Algorithm_python/blob/main/Chained_matrix_multiplication.ipynb)
 
 
 ## 연속 행렬 곱셈
@@ -68,9 +68,7 @@
 
 
 - **Top down 상향식 계산 : 대각선1번, 대각선2번, ⋯ , 대각선 𝑛 − 1 번**
----
 
-## [Chained_matrix_multiplication](https://github.com/DAEHEE97/Algorithm_python/blob/main/Chained_matrix_multiplication.ipynb)
 
 
 
